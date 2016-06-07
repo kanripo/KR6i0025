@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:05.478364
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:27
 #+TITLE: 現在賢劫千佛名經
 #+PROPERTY: CBETA_ID T14n0447b
 #+PROPERTY: ID KR6i0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 447b
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0025_T_000-0383b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0025_T_001-0383b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-
- 現在賢劫千佛名經(一名「集諸佛大功德山」)¶
+現在賢劫千佛名經(一名「集諸佛大功德山」)¶
 ¶
 開元拾遺附梁錄¶
 
@@ -354,7 +353,7 @@
 淨佛、南無等定佛、南無不壞佛、南無滅¶
 垢佛、南無不失方便佛、南無無嬈佛、南¶
 無妙面佛、南無智制住佛、南無法師王佛、¶
-南無大天佛、南無深意佛、南無無量佛、¶
+南無大天佛、南無深意佛、南佛無量佛、¶
 南無無礙見佛、南無世供養佛、南無普散¶
 華佛、南無三世供佛、南無應日藏佛、南¶
 無天供養佛、南無上智人佛。¶
